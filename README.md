@@ -1,3 +1,20 @@
-# Basic React App for practice skills
+# Basic React App
 
-Has been used React, one package called "react-router-dom" and Bootstrap for the Frontend.
+# 📚 Used technologies
+
+<pre>
+  <code>
+
+╭─╮  🌐 Technologies
+│ ┃  ════════════════════ 
+│ ╰─╮
+│   ├─ 🎨 HTML5
+│   ├─ 🎨 CSS3
+│   ├─ 🎨 Bootstrap
+│   └─ 🎨 JavaScript
+│        └─ ⚛️ React.js
+│             └─ 📚 React Router DOM
+╰───────────────╯
+    
+  </code>
+</pre>
